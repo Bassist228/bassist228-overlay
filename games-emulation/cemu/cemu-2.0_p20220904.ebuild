@@ -35,7 +35,7 @@ DEPEND="app-arch/zarchive
 	net-misc/curl
 	sys-libs/zlib
 	x11-libs/wxGTK:3.2-gtk3
-  media-libs/glm"
+  	media-libs/glm"
 RDEPEND="${DEPEND}"
 
 S="${WORKDIR}/${MY_PN}-${SHA}"
