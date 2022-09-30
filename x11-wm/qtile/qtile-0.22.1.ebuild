@@ -10,7 +10,7 @@ inherit distutils-r1 virtualx
 
 DESCRIPTION="A full-featured, hackable tiling window manager written in Python"
 HOMEPAGE="http://qtile.org/"
-SRC_URI="https://github.com/qtile/qtile/archive/v0.22.1.tar.gz"
+SRC_URI="https://files.pythonhosted.org/packages/c5/6d/662b20c4f19e4c68e44564e4c5b51e41d477722cfacfaa178acb548c40f2/qtile-0.22.1.tar.gz"
 
 LICENSE="MIT"
 SLOT="0"
